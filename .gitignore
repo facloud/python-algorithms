@@ -1,4 +1,9 @@
+# Vim
 /.hypothesis
 /.ropeproject
 
+# Python
 *.pyc
+
+# MacOS
+.DS_Store
