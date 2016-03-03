@@ -4,7 +4,7 @@ from hypothesis.strategies import integers
 import bin_search
 
 
-ARRAY_LENGTH=100000
+ARRAY_LENGTH = 100000
 
 
 class TestBinarySearch(unittest.TestCase):
