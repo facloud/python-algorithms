@@ -1,7 +1,7 @@
 import unittest
 from hypothesis import given
 from hypothesis.strategies import integers
-import bin_search
+from algos import bin_search
 
 
 ARRAY_LENGTH = 100000
