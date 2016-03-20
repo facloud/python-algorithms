@@ -1,5 +1,5 @@
 import random
-import bin_search
+from algos import bin_search
 
 
 class PerfBinSearch(object):
@@ -9,7 +9,7 @@ class PerfBinSearch(object):
         last_val = 0
         add_idx = 0
         add_range = range(0, 10)
-        for i in xrange(size):
+        for i in range(0, size):
             add_idx += 1
             add = add_range[add_idx % 10]
 
