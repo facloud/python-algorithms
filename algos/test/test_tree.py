@@ -1,6 +1,5 @@
 import unittest
-from algos.tree import Tree, Node, BinaryTree, Heap
-from algos.tree_visualization import draw_tree
+from algos.tree import Tree, Node, BinaryTree
 from algos.queue import Queue
 from algos.perf.rnd_data_gen import RandomDatasetGenerator
 
