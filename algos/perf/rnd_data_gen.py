@@ -3,8 +3,10 @@ import time
 
 
 class RandomDatasetGenerator(object):
-    def __init__(self):
-        self.random = random.Random(time.time())
+    def __init__(self, seed=0):
+        if seed == 0:
+            seed = time.time()
+        self.random = random.Random(seed)
 
     def get_sorted_list(self, size):
         """Complexity: O(n)"""
