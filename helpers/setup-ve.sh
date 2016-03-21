@@ -1,4 +1,3 @@
-#!/bin/bash
 workon algo
 cd -
 alias ipython='frameworkpython -m IPython'
