@@ -5,11 +5,12 @@ data structures.
 
 ## Algorithms
 
-* **Binary search**: `algos/bin_search.py` and `alogs/test/test_bin_search.py`.
+* **Binary search**: `algos/bin_search.py` and `alogs/test/test_bin_search.py`
 
 ## Data structures
 
 * **Tree** and **Binary tree**: `algos/tree.py` and `algos/test/test_tree.py`
+* **Heap**: `algos/heap.py` and `algos/test/test_heap.py`
 
 ## Performance testing
 
