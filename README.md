@@ -1,9 +1,17 @@
 # Data structures and algorithms in Python
 
 This repository contains implementation and tests for various algorithms and
-data structures covered by the video series of George Heineman: [Working with
-Algorithms in Python](http://shop.oreilly.com/product/110000667.do).
+data structures.
 
 ## Algorithms
 
-* **Binary search**: `bin_search.py` and `test_bin_search.py`.
+* **Binary search**: `algos/bin_search.py` and `alogs/test/test_bin_search.py`.
+
+## Data structures
+
+* **Tree** and **Binary tree**: `algos/tree.py` and `algos/test/test_tree.py`
+
+## Performance testing
+
+* IPython notebook: `algos/perf/perf.ipynb`
+* Binary search testing: `algos/perf/perf_bin_search.py`
