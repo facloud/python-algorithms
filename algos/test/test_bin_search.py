@@ -1,6 +1,8 @@
 import unittest
+
 from hypothesis import given
 from hypothesis.strategies import integers
+
 from algos import bin_search
 
 
