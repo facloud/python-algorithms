@@ -6,6 +6,9 @@ data structures.
 ## Algorithms
 
 * **Binary search**: `algos/bin_search.py` and `alogs/test/test_bin_search.py`
+* **Subsequence detecting**: `algos/subsequence.py` and
+  `algos/test/test_subsequence.py`
+* **Exponentiation by squaring**: `algos/math.py` and `algos/test/math.py`
 
 ## Data structures
 
@@ -14,5 +17,5 @@ data structures.
 
 ## Performance testing
 
-* IPython notebook: `algos/perf/perf.ipynb`
-* Binary search testing: `algos/perf/perf_bin_search.py`
+* **IPython notebook**: `algos/perf/perf.ipynb`
+* **Binary search** testing: `algos/perf/perf_bin_search.py`
